@@ -17,6 +17,8 @@ Features: List the features you plan to implement
 - Integrated IoT Hardware Simulator: Built-in modular control deck mimicking field telemetry changes directly on the application UI for system assessment.
 
 Installation Instructions: Instructions on how to clone and run the app locally (for others or future you).
+- [Flutter SDK](https://docs.flutter.dev/get-started/install) installed locally.
+- A configured mobile device/emulator or active web browser.
 
 Setup: Instructions for setting up IoT devices and cloud services.# CropGuardapp
 
